@@ -36,6 +36,6 @@ All characters that aren't 1-9 and _ are ignored. Run the application like this:
 1. Count pre-solved cells.
 2. Begin at cell 0.
 3. If solved counter == 81, print solution and exit.
-4. If cell is 1-9, check for possible solutions.
+4. If cell is empty, check for possible solutions.
 5. If there is only one solution, insert into puzzle, increment solved counter and go to step 2.
 6. If there is more than solutions, increment cell and go to step 3.
