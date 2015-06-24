@@ -1,0 +1,4 @@
+[package]
+name = "sudoku"
+version = "0.1.0"
+authors = ["Ryan Breen <ryanbreen85@gmail.com>"]
